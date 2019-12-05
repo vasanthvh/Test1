@@ -1,0 +1,5 @@
+<project name="HelloWorld" basedir="." default="dist">
+    <target name="dist">
+        <mkdir dir="Vasanth"/>
+    </target>
+</project>
